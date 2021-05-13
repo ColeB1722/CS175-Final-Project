@@ -1,0 +1,7 @@
+tensorflow
+Pillow
+PySimpleGUI
+opencv-python
+numpy
+datetime
+tk
