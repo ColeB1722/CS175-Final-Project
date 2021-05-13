@@ -1,7 +1,7 @@
 A Python based Image and Video Editor
 =====================================
 
-The documentation, including a thorough explination of the methods implemented in the editor, is included in this [Final Project Report](https://drive.google.com/file/d/1-aH2Rr_w4T_-lZrQVSJTMinX2hhDBoSt/view?usp=sharing). You can find examples of the video processing [here](https://www.youtube.com/watch?v=bZTFA6XCHXo&t=91s&ab_channel=ColeBateman) and [here](https://www.youtube.com/watch?v=d1EGuYXyT1Q&ab_channel=ColeBateman).
+You can find examples of the video processing [here](https://www.youtube.com/watch?v=bZTFA6XCHXo&t=91s&ab_channel=ColeBateman) and [here](https://www.youtube.com/watch?v=d1EGuYXyT1Q&ab_channel=ColeBateman).
 
 ## Image and Video Processor
 
